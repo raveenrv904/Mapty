@@ -1,4 +1,3 @@
-MAPTY =>
-This workout tracking application has been developed that enables users to track their cycling and running workouts by utilizing maps.
+Introducing the Ultimate Workout Tracker App: Your Companion for Jogging and Cycling Adventures!
 
-Live URL: https://mapty-raveenrv904.netlify.app
+Are you an avid jogger or cyclist looking for a convenient way to track your workouts and explore new routes? Look no further! This workout tracker app is specifically designed to cater to your jogging and cycling needs, providing a seamless and comprehensive experience.
